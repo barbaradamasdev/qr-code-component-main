@@ -3,7 +3,7 @@
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## 🔗 Link
-- [Live Version](https://barbaradamasdev.github.io/qr-code-component-main/)
+- [Live Version](https://lighthearted-toffee-ea573a.netlify.app/)
 
 ## 😄 Hello! 
 
